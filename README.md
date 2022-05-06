@@ -1,2 +1,2 @@
 # first-repository
-first github repository
+first git repository
